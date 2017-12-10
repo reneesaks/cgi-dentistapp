@@ -1,0 +1,10 @@
+﻿    ____  _______   _______________________   ___    ____  ____
+   / __ \/ ____/ | / /_  __/  _/ ___/_  __/  /   |  / __ \/ __ \
+  / / / / __/ /  |/ / / /  / / \__ \ / /    / /| | / /_/ / /_/ /
+ / /_/ / /___/ /|  / / / _/ / ___/ // /    / ___ |/ ____/ ____/
+/_____/_____/_/ |_/ /_/ /___//____//_/    /_/  |_/_/   /_/
+
+Author: Renee Säks
+Description: Test assignment for CGI Junior Java Developer position
+
+${Ansi.GREEN} :: Spring Boot ::${spring-boot.formatted-version} ${Ansi.DEFAULT}

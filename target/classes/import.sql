@@ -1,0 +1,2 @@
+INSERT INTO DENTIST (dentist_id, dentist_name) VALUES (1, 'Renee Säks'), (2, 'Kaarel Tamm'), (3, 'Mari Jõgi');
+INSERT INTO DENTIST_VISIT (dentist_visit_id, visit_time, dentist_entity_dentist_id) VALUES (1, '2017-12-21 15:00:00.0', 1), (2, '2018-01-15 12:00:00.0', 2), (3, '2018-01-11 17:00:00.0', 3), (4, '2018-01-11 11:00:00.0', 1), (5, '2018-01-11 14:00:00.0', 3), (6, '2017-12-18 12:00:00.0', 1), (7, '2017-12-18 12:00:00.0', 2);
